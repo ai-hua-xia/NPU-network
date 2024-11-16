@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/computer_network/two/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/WinPcapSend.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\WinPcapSend.dir\\send\\Main.cpp.obj -c D:\\computer_network\\two\\send\\Main.cpp",
+  "file": "D:/computer_network/two/send/Main.cpp",
+  "output": "CMakeFiles/WinPcapSend.dir/send/Main.cpp.obj"
+},
+{
+  "directory": "D:/computer_network/two/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/WinPcapSend.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\WinPcapSend.dir\\send\\Network_IPV4_send.cpp.obj -c D:\\computer_network\\two\\send\\Network_IPV4_send.cpp",
+  "file": "D:/computer_network/two/send/Network_IPV4_send.cpp",
+  "output": "CMakeFiles/WinPcapSend.dir/send/Network_IPV4_send.cpp.obj"
+},
+{
+  "directory": "D:/computer_network/two/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/WinPcapSend.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\WinPcapSend.dir\\send\\Ethernet.cpp.obj -c D:\\computer_network\\two\\send\\Ethernet.cpp",
+  "file": "D:/computer_network/two/send/Ethernet.cpp",
+  "output": "CMakeFiles/WinPcapSend.dir/send/Ethernet.cpp.obj"
+},
+{
+  "directory": "D:/computer_network/two/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/WinPcapReceive.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\WinPcapReceive.dir\\receive\\Main.cpp.obj -c D:\\computer_network\\two\\receive\\Main.cpp",
+  "file": "D:/computer_network/two/receive/Main.cpp",
+  "output": "CMakeFiles/WinPcapReceive.dir/receive/Main.cpp.obj"
+},
+{
+  "directory": "D:/computer_network/two/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/WinPcapReceive.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\WinPcapReceive.dir\\receive\\Network_ipv4_recv.cpp.obj -c D:\\computer_network\\two\\receive\\Network_ipv4_recv.cpp",
+  "file": "D:/computer_network/two/receive/Network_ipv4_recv.cpp",
+  "output": "CMakeFiles/WinPcapReceive.dir/receive/Network_ipv4_recv.cpp.obj"
+},
+{
+  "directory": "D:/computer_network/two/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/WinPcapReceive.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\WinPcapReceive.dir\\receive\\Ethernet.cpp.obj -c D:\\computer_network\\two\\receive\\Ethernet.cpp",
+  "file": "D:/computer_network/two/receive/Ethernet.cpp",
+  "output": "CMakeFiles/WinPcapReceive.dir/receive/Ethernet.cpp.obj"
+}
+]

@@ -1,0 +1,19 @@
+﻿Build started 2016/3/24 22:08:20.
+     1>Project "F:\CPRO-千题百项\TCP-IP-Network\WinPcap_ARP_Sender\WinPcap_ARP_Sender\WinPcap_ARP_Sender.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\DevelopTools\VISUAL STUDIO\VC\bin\CL.exe /c /ID:\DevelopTools\boost_1_59_0 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Network_ARP_recv.cpp
+         Network_ARP_recv.cpp
+       Link:
+         D:\DevelopTools\VISUAL STUDIO\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CPRO-千题百项\TCP-IP-Network\WinPcap_ARP_Sender\Debug\WinPcap_ARP_Sender.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\DevelopTools\boost_1_59_0\stage\lib ws2_32.lib wpcap.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\CPRO-千题百项\TCP-IP-Network\WinPcap_ARP_Sender\Debug\WinPcap_ARP_Sender.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CPRO-千题百项\TCP-IP-Network\WinPcap_ARP_Sender\Debug\WinPcap_ARP_Sender.lib" /MACHINE:X86 Debug\ARP_Cache_Table.obj
+         Debug\Ethernet.obj
+         Debug\Global_Variable.obj
+         Debug\Main.obj
+         Debug\Network_ARP_recv.obj
+         Debug\Network_ARP_send.obj
+         Debug\Network_IPV4_send.obj
+         WinPcap_ARP_Sender.vcxproj -> F:\CPRO-千题百项\TCP-IP-Network\WinPcap_ARP_Sender\Debug\WinPcap_ARP_Sender.exe
+     1>Done Building Project "F:\CPRO-千题百项\TCP-IP-Network\WinPcap_ARP_Sender\WinPcap_ARP_Sender\WinPcap_ARP_Sender.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.40
